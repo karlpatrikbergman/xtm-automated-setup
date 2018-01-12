@@ -1,0 +1,3 @@
+rootProject.name = 'xtm-automated-setup'
+
+//includeBuild '../xtm-rest-client-all'
